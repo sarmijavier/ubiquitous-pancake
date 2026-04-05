@@ -1,0 +1,7 @@
+networkx
+numpy
+python-louvain
+matplotlib
+scikit-learn
+seaborn
+
